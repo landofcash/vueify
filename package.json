@@ -32,8 +32,9 @@
     "postcss-selector-parser": "^2.0.0",
     "source-map": "^0.7.3",
     "through": "^2.3.8",
+    "vue-class-component": "^6.3.2",
     "vue-hot-reload-api": "^2.3.1",
-    "vue-template-compiler": "^2.5.18",
+    "vue-template-compiler": "^2.5.20",
     "vue-template-es2015-compiler": "^1.6.0"
   },
   "devDependencies": {
@@ -43,7 +44,7 @@
     "@babel/runtime": "^7.2.0",
     "browserify": "^13.0.1",
     "chai": "^4.2.0",
-    "coffee-script": "^1.10.0",
+    "coffeescript": "^2.3.2",
     "eslint": "^2.13.0",
     "eslint-config-vue": "^1.0.3",
     "eslint-plugin-html": "^1.5.3",
@@ -55,6 +56,7 @@
     "node-sass": "^4.10.0",
     "pug": "^2.0.3",
     "rimraf": "^2.5.2",
-    "stylus": "^0.54.5"
+    "stylus": "^0.54.5",
+    "typescript": "^3.2.2"
   }
 }

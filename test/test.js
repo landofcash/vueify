@@ -63,6 +63,10 @@ describe('vueify', () => {
     expect(style).to.contain('comp-a h2 {\n  color: #f00;\n}')
   })
 
+  test('basic_ts', window => {
+
+  })
+
   test('pre-processors', window => {
     var module = window.vueModule
     assertRenderFn(module,
