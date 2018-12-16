@@ -28,7 +28,7 @@
     "json5": "^2.1.0",
     "lru-cache": "^4.0.0",
     "object-assign": "^4.1.1",
-    "postcss": "^5.0.10",
+    "postcss": "^7.0.6",
     "postcss-selector-parser": "^2.0.0",
     "source-map": "^0.7.3",
     "through": "^2.3.8",
